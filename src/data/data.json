@@ -1,0 +1,8 @@
+{
+  "title": "Phonebook",
+  "emptyText1": "Your phonebook is empty.",
+  "emptyText2": "Add first contact!",
+  "btnText": "Add contact",
+  "filterTitle": "Contacts",
+  "noContacts": "No contacts found."
+}
